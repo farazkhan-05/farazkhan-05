@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a2240&height=200&section=header&text=Mohd.%20Faraz%20Khan&fontSize=44&fontColor=e6edf3&fontAlignY=40&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20Applications%20%7C%20NLP&descAlignY=62&descSize=15&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a2240&height=200&section=header&text=Mohd.%20Faraz%20Khan&fontSize=44&fontColor=e6edf3&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Applications%20%7C%20NLP&descAlignY=62&descSize=15&descColor=8b949e" width="100%"/>
 
 <p align="right">
   <a href="mailto:mohd.faraz2305@gmail.com">
