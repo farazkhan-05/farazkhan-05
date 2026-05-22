@@ -58,14 +58,7 @@ A browser-based music player.
 
 <br/>
 
-### GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=farazkhan-05&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&title_color=24292F&icon_color=0A66C2&text_color=24292F&bg_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazkhan-05&layout=compact&hide_border=true&title_color=24292F&text_color=24292F&bg_color=FFFFFF&hide_title=true" alt="Top Languages"/>
-</p>
-
-<br/>
 
 ### Contact
 
