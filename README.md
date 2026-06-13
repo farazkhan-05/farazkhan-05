@@ -37,7 +37,7 @@ I build full-stack applications focused on AI integrations and backend services.
 
 ### Featured Project
 
-**[LangGraph Orchestrated AI Workflow with SSE Streaming & Secure Persistence](https://github.com/farazkhan-05/LangGraph-Orchestrated-AI-Workflow-with-SSE-Streaming-Secure-Persistence)**
+**[SpanishAmigo: Production RAG Application with Real-Time AI Chat](https://github.com/farazkhan-05/LangGraph-Orchestrated-AI-Workflow-with-SSE-Streaming-Secure-Persistence)**
 
 A Spanish learning web app with structured lessons and an in-app AI tutor. Lessons run through a slide-based player covering context, translation reveal, and practice quizzes. The tutor answers questions alongside the lesson flow with streamed responses, voice input, and speech playback.
 
