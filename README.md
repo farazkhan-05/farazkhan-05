@@ -38,7 +38,7 @@ The frontend is React 18 and Vite with Tailwind and TanStack Query. The backend 
 
 <p align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Tavily-6C4FE0?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></p>
 
-**[SpanishAmigo: Production RAG Application with Real-Time AI Chat](https://github.com/farazkhan-05/LangGraph-Orchestrated-AI-Workflow-with-SSE-Streaming-Secure-Persistence)**
+**[SpanishAmigo: Adaptive AI Spanish Tutor](https://github.com/farazkhan-05/LangGraph-Orchestrated-AI-Workflow-with-SSE-Streaming-Secure-Persistence)**
 
 A Spanish learning web app with structured lessons and an in-app AI tutor. Lessons run through a slide-based player covering context, translation reveal, and practice quizzes. The tutor answers questions alongside the lesson flow with streamed responses, voice input, and speech playback.
 
